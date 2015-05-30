@@ -12,7 +12,7 @@ git clone https://github.com/ysaotome/docker-go-revel-dev
 * docker build
 
 ```zsh
-docker build --rm -t ysaotome/go-revel-dev go-revel-dev
+docker build --rm -t ysaotome/go-revel-dev docker-go-revel-dev
 ```
 
 ## Example usage
